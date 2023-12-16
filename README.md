@@ -1,7 +1,8 @@
 # Welcome to our Scripts repository
 This repository will contain all of the scripts and related information that we used as part of this project.
 
-
+[AddUser Script](https://github.com/JingLbyte/Scripts/blob/main/AddUser.ps1)
+* This script automates the process of creating profiles for new users in Active Directory, saving hours of work during an acquisition.
 
 # Team Members
 
