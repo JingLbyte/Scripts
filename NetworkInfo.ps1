@@ -1,0 +1,3 @@
+Get-NetIPConfiguration
+
+Get-NetIPInterface
