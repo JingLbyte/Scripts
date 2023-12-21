@@ -7,7 +7,6 @@ This repository will contain all of the scripts and related information that we 
 # Team Members
 
 * Matthew Earles - [GitHub](https://github.com/Matt01965) , [LinkedIn](www.linkedin.com/in/matthew-earles)
-* Basil Evelyn - [GitHub](https://github.com/Copperlitt) , [LinkedIn](https://www.linkedin.com/in/basil-evelyn-455201262/)
 * Nathalie Abdallah - GitHub , LinkedIn
 * Arturo Laguna - GitHub , LinkedIn
 * Zachariah Woodbridge - GitHub , LinkedIn
