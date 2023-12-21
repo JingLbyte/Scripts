@@ -4,13 +4,12 @@ This repository will contain all of the scripts and related information that we 
 [AddUser Script](https://github.com/JingLbyte/Scripts/blob/main/AddUser.ps1)
 * This script automates the process of creating profiles for new users in Active Directory, saving hours of work during an acquisition.
 
-# Team Members
+# JingLbyte Members
 
-* Matthew Earles - [GitHub](https://github.com/Matt01965) , [LinkedIn](www.linkedin.com/in/matthew-earles)
-* Nathalie Abdallah - GitHub , LinkedIn
-* Arturo Laguna - GitHub , LinkedIn
-* Zachariah Woodbridge - GitHub , LinkedIn
-
+| Matthew Earles | Zachariah Woodbridge | Arturo Laguna | Nathalie Abdallah |
+|:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
+| [Linkedin](https://www.linkedin.com/in/matthew-earles)| [Linkedin](https://www.linkedin.com/in/zachariahw/) | [Linkedin](https://www.linkedin.com/in/arturo-laguna-81129320a) | [Linkedin](https://www.linkedin.com/in/nataliabdallah) 
+| [Github](https://github.com/Matt01965)| [Github](https://github.com/Z-Zachattack) | [Github](https://github.com/Random9904) | [Github](https://github.com/nataliabdallah) 
 
 # Project Management
 [Trello Board](https://trello.com/invite/b/1UHKRjwA/ATTI3f4b8479c5d90897269b5d53cc52bbf8244DF362/301-project)
